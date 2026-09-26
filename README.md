@@ -20,6 +20,10 @@ A database-first bookstore system built with **MySQL 8.4** and **C++17**. It dem
 
 [![Database CI](https://github.com/MohammedSalah-CloudSec/bookstore-database-portfolio/actions/workflows/database-ci.yml/badge.svg)](https://github.com/MohammedSalah-CloudSec/bookstore-database-portfolio/actions/workflows/database-ci.yml)
 
+### [MIPS Vault Security System](https://github.com/MohammedSalah-CloudSec/mips-vault-security-system)
+
+A four-person **MIPS assembly** coursework project that analyzes ten vault access codes with input validation, searching, sorting, and array operations. I contributed the odd-code display feature. The repository includes a clear walkthrough and five integration tests run in MARS.
+
 ### [Library Book Management System](https://github.com/MohammedSalah-CloudSec/library-book-management-system)
 
 An early C++ learning project covering file persistence, authentication flow, book catalog management, loans, returns, and overdue-fee calculation. It is being kept as a record of my programming progress and will be refactored over time.
